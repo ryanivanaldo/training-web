@@ -1,6 +1,6 @@
 # Training Web Development
 
-##Author
+## Author
 
-NIM: [nim]
-NAMA: [nama anda ]
+NIM: [nim]  
+Nama: [nama anda]
